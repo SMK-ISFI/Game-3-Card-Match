@@ -16,4 +16,4 @@ Di modul ini Anda akan mempelajari tentang Instance Variable, Array, Perulangan,
 6. [Membuat Timer](007_timer.md)
 7. [Spritefont+](008_spritefont.md)
 8. [Menambahkan Kondisi Game Over](009_game_over.md)
-9. Export ke HTML5
+9. [Export ke HTML5](010_export_html5.md)
